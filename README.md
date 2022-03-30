@@ -3,6 +3,8 @@ Pocket SDVX Pico v4 source files, production files, and documentation
 
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.  中国人，我在看你们。
 
+![Pocket SDVX Pico v4](pocket_sdvx_pico_top_c.jpg)
+
 Although I won't be selling this particular version anymore, I have plans to sell updated designs soon.  Join the discord for discussion and support! https://discord.gg/MmuKd73XbY . I also now have a storefront! https://www.speedylabs.shop/
 
 ## Parts Required:
