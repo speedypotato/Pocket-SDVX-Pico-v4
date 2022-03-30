@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PEC16-4015F-N0024
+D Mechanical Encoder Rotary Incremental Flat 0.02N.m Straight Quadrature Digital Square Wave 24PPR Through Hole PC Pin
+K
+F https://www.bourns.com/docs/Product-Datasheets/pec16.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,26 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model PEC16-4015F-N0024
+#/568405/544148/2.49/5/4/Capacitor
+DEF PEC16-4015F-N0024 C 0 30 Y Y 1 F N
+F0 "C" 950 300 50 H V L CNN
+F1 "PEC16-4015F-N0024" 950 200 50 H V L CNN
+F2 "PEC164015FN0024" 950 100 50 H I L CNN
+F3 "https://www.bourns.com/docs/Product-Datasheets/pec16.pdf" 950 0 50 H I L CNN
+F4 "Mechanical Encoder Rotary Incremental Flat 0.02N.m Straight Quadrature Digital Square Wave 24PPR Through Hole PC Pin" 950 -100 50 H I L CNN "Description"
+F5 "21.5" 950 -200 50 H I L CNN "Height"
+F6 "652-PEC16-4015FN0024" 950 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Bourns/PEC16-4015F-N0024?qs=h2IHEVivlqBHjMMX4nV%252Bdg%3D%3D" 950 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Bourns" 950 -500 50 H I L CNN "Manufacturer_Name"
+F9 "PEC16-4015F-N0024" 950 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X CCW A1 0 0 200 R 50 50 0 0 P
+X WIPER B1 0 -100 200 R 50 50 0 0 P
+X CW C1 0 -200 200 R 50 50 0 0 P
+X MH1 MH1 1100 0 200 L 50 50 0 0 P
+X MH2 MH2 1100 -100 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 900 100 900 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -1,0 +1,11 @@
+(fp_lib_table
+  (lib (name MX_Only)(type KiCad)(uri ${KIPRJMOD}/MX_Alps_Hybrid.pretty/MX_Only.pretty)(options "")(descr ""))
+  (lib (name PEC16-4015F-N0024)(type KiCad)(uri ${KIPRJMOD}/PEC16-4015F-N0024/PEC16-4015F-N0024.pretty)(options "")(descr ""))
+  (lib (name MCU_RaspberryPi_and_Boards)(type KiCad)(uri ${KIPRJMOD}/RP_Silicon_KiCad/KiCadLibraries/MCU_RaspberryPi_and_Boards.pretty)(options "")(descr ""))
+  (lib (name Type-C)(type KiCad)(uri ${KIPRJMOD}/Type-C.pretty)(options "")(descr ""))
+  (lib (name skin)(type KiCad)(uri ${KIPRJMOD}/skin.pretty)(options "")(descr ""))
+  (lib (name grace)(type KiCad)(uri ${KIPRJMOD}/grace.pretty)(options "")(descr ""))
+  (lib (name rasis)(type KiCad)(uri ${KIPRJMOD}/rasis.pretty)(options "")(descr ""))
+  (lib (name agg)(type KiCad)(uri ${KIPRJMOD}/agg-kicad/agg.pretty)(options "")(descr ""))
+  (lib (name K2-1102SP-C4SC-04)(type KiCad)(uri ${KIPRJMOD}/K2-1102SP-C4SC-04.pretty)(options "")(descr ""))
+)

@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name agg-kicad)(type Legacy)(uri ${KIPRJMOD}/agg-kicad/agg-kicad.lib)(options "")(descr ""))
+  (lib (name MX_Alps_Hybrid)(type Legacy)(uri "${KIPRJMOD}/MX_Alps_Hybrid.pretty/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+  (lib (name PEC16-4015F-N0024)(type Legacy)(uri ${KIPRJMOD}/PEC16-4015F-N0024/PEC16-4015F-N0024.lib)(options "")(descr ""))
+  (lib (name MCU_RaspberryPi_and_Boards)(type Legacy)(uri ${KIPRJMOD}/RP_Silicon_KiCad/KiCadLibraries/MCU_RaspberryPi_and_Boards.lib)(options "")(descr ""))
+  (lib (name Type-C)(type Legacy)(uri ${KIPRJMOD}/Type-C.pretty/Type-C.lib)(options "")(descr ""))
+  (lib (name K2-1102SP-C4SC-04)(type Legacy)(uri ${KIPRJMOD}/K2-1102SP-C4SC-04.pretty/K2-1102SP-C4SC-04.lib)(options "")(descr ""))
+)

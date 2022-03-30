@@ -1,0 +1,8 @@
+addons:
+  apt:
+    packages:
+      - python-yaml
+language: generic
+script:
+  - make check V=1
+  - make verify V=1
