@@ -8,7 +8,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 Although I won't be selling this particular version anymore, I have plans to sell updated designs soon.  Join the discord for discussion and support! https://discord.gg/MmuKd73XbY . I also now have a storefront! https://www.speedylabs.shop/
 
 ## Parts Required:
-- JLCPCB parts:
+- JLCPCB parts (Boards are 180 mm*100 mm, white PCB color, remove order number[specify a location]):
     - 1x Pocket-SDVX-Pico-Plate-v4-2 (MOQ 5)
     - 1x Pocket-SDVX-Pico-v4-3 + SMT Assembly (MOQ 5)
 - McMaster parts:
