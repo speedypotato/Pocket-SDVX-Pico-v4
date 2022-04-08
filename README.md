@@ -33,3 +33,10 @@ Although I won't be selling this particular version anymore, I have plans to sel
 
 ## Addendum
 As promised many months ago, Speedy Labs' most popular product is now open sourced.  Pocket-SDVX-Pico v4 is my second PCB, and therefore everything's a little bit sloppy.  Nevertheless, everything here is functional and has been self-learned online along with the help of the community.  Thanks for all the support!
+
+FYI I should probably let everyone know the most common defects I've received:
+- RGB LEDs dead or not soldered properly
+- Extra Aux Button wobbly/non-functional/misaligned
+- Smudged Silkscreen
+
+There's probably a 5% chance of this happening according to my statistics.  Nothing you can do about it aside from repairing it yourself.
