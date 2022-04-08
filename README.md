@@ -11,6 +11,7 @@ Although I won't be selling this particular version anymore, I have plans to sel
 - JLCPCB parts (Boards are 180 mm*100 mm, white PCB color, remove order number[specify a location]):
     - 1x Pocket-SDVX-Pico-Plate-v4-2 (MOQ 5)
     - 1x Pocket-SDVX-Pico-v4-3 + SMT Assembly (MOQ 5)
+        - SMT Assemble the top side.  There should be 9 unique parts.
 - McMaster parts:
     - 4x Feet - 8884T13
     - 4x M3 Lock Nut - 90576A102
