@@ -5,7 +5,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 
 ![Pocket SDVX Pico v4](pocket_sdvx_pico_top_c.jpg)
 
-Although I won't be selling this particular version anymore, I have plans to sell updated designs soon.  Join the discord for discussion and support! https://discord.gg/MmuKd73XbY . I also now have a storefront! https://www.speedylabs.shop/
+Although I won't be selling this particular version anymore, I have plans to sell updated designs soon.  Join the discord for discussion and support! https://discord.gg/MmuKd73XbY . I also now have a storefront! https://www.speedylabs.us/
 
 ## Parts Required:
 - JLCPCB parts (Boards are 180 mm*100 mm, white PCB color, remove order number[specify a location]):
@@ -21,12 +21,12 @@ Although I won't be selling this particular version anymore, I have plans to sel
     - 2x 2U Stabilizer - 540-G99-0224
     - 2x Encoder - PEC16-4015F-N0024
 - 1x Raspberry Pi Pico
-- XDA Keycap Set https://www.speedylabs.shop/product/pocket-sdvx-keycaps/
+- XDA Keycap Set https://www.speedylabs.us/product/pocket-sdvx-keycaps/
     - 1x 1u, 4x 1.5u, 2x 2u
-- 2x 22mm Knob https://www.speedylabs.shop/product/pocket-sdvx-aluminum-knob/
+- 2x 22mm Knob https://www.speedylabs.us/product/pocket-sdvx-aluminum-knob/
 - 7x Gateron Yellow Switches
 - 7x Gateron Hotswap Sockets
-- 1x 3D printed case, White PETG https://www.speedylabs.shop/product/pocket-sdvx-pico-case/
+- 1x 3D printed case, White PETG https://www.speedylabs.us/product/pocket-sdvx-pico-case/
 
 [Pocket SDVX Pico v4 Quick Start Guide](https://docs.google.com/document/d/1lTzADQI5E5vRpHBv-0IfLbDSh2zEKCUAdh5BqFhex2I/edit?usp=sharing)  
 [Kit Assembly Guide](https://docs.google.com/document/d/1bsWk7fmLKUGv5YgQknoNQcy0RX3fi5gCZRvfOJAa-P0/)
