@@ -24,7 +24,7 @@ Although I won't be selling this particular version anymore, I have plans to sel
 - XDA Keycap Set https://www.speedylabs.us/product/pocket-sdvx-keycaps/
     - 1x 1u, 4x 1.5u, 2x 2u
 - 2x 22mm Knob https://www.speedylabs.us/product/pocket-sdvx-aluminum-knob/
-- 7x Gateron Yellow Switches
+- 7x Gateron Yellow Switches (GATERON KS-9 or any switch with LED cutout)
 - 7x Gateron Hotswap Sockets
 - 1x 3D printed case, White PETG https://www.speedylabs.us/product/pocket-sdvx-pico-case/
 
